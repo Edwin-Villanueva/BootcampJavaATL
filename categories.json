@@ -22,5 +22,9 @@
   {
     "category": "Ciencia",
     "description": "Preguntas relacionadas con diferentes ramas de la ciencia, descubrimientos y avances científicos."
+  },
+  {
+    "category": "Naturaleza",
+    "description": "Preguntas relacionadas sobre animales, plantas, paisajes y fenómenos naturales "
   }
 ]
